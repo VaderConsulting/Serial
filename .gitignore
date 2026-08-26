@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Secrets / credentials (never upload)
+*.pfx
+
+# VS upgrade leftovers
+Backup/
+_UpgradeReport_Files/
+UpgradeLog.*
