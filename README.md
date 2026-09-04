@@ -21,6 +21,10 @@ VB.NET WinForms host that opens a serial port, parses `acx`/`acy`/`acz` accelero
 
 Open `Serial.sln` in Visual Studio 2010 (or later with VB.NET). That solution builds Serial, the AVBGuage Gauge control, and PerfChart. AGauge and `Gauge/GaugeApp.vbproj` are in the tree but are not solution members.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Dave Robinson / VaderConsulting authored the Serial host. AGauge is A.J.Bauer's C# analog gauge (Copyright (C) 2007 A.J.Bauer); keep the zlib-style notice in `AGauge/AGauge.cs`. AssemblyInfo Company/Copyright "Microsoft 2010" on the VS 2010 projects is a project-template leftover, not a Microsoft product. See `THIRD_PARTY_NOTICES.md`.
