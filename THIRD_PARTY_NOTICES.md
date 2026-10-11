@@ -1,6 +1,6 @@
 # Third-Party Notices — Serial
 
-Dave Robinson / VaderConsulting authored the Serial WinForms host. AGauge in this tree is third-party.
+Dave Robinson / Vader Consulting authored the Serial WinForms host. AGauge in this tree is third-party.
 
 ## AGauge (A.J.Bauer)
 

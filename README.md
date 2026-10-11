@@ -29,8 +29,8 @@ Open `Serial.sln` in Visual Studio 2010 (or later with VB.NET). That solution bu
 
 Working copy from my Historical Dev folder.
 
-Dave Robinson / VaderConsulting authored the Serial host. AGauge is A.J.Bauer's C# analog gauge (Copyright (C) 2007 A.J.Bauer); keep the zlib-style notice in `AGauge/AGauge.cs`. AssemblyInfo Company/Copyright "Microsoft 2010" on the VS 2010 projects is a project-template leftover, not a Microsoft product. See `THIRD_PARTY_NOTICES.md`.
+Dave Robinson / Vader Consulting authored the Serial host. AGauge is A.J.Bauer's C# analog gauge (Copyright (C) 2007 A.J.Bauer); keep the zlib-style notice in `AGauge/AGauge.cs`. AssemblyInfo Company/Copyright "Microsoft 2010" on the VS 2010 projects is a project-template leftover, not a Microsoft product. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
 
-MIT License for Dave's Serial code. Copyright (c) 2026 VaderConsulting. See `LICENSE`. AGauge remains under A.J.Bauer's zlib-style terms in `AGauge/AGauge.cs`. See `THIRD_PARTY_NOTICES.md`.
+MIT License for Dave's Serial code. Copyright (c) 2026 Vader Consulting. See `LICENSE`. AGauge remains under A.J.Bauer's zlib-style terms in `AGauge/AGauge.cs`. See `THIRD_PARTY_NOTICES.md`.
